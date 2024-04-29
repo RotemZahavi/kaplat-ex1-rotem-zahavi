@@ -1,1 +1,2 @@
 This is b.txt
+This is a new line for C7
